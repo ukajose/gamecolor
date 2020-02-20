@@ -1,0 +1,21 @@
+/* created by uka */
+body {
+  background-color: #232323;
+}
+.squares {
+  width: 30%;
+  background: purple;
+  padding-bottom: 30%;
+  margin: 1.66%;
+  float: left;
+}
+#container {
+  margin: 0 auto;
+  max-width: 700px;
+}
+h1 {
+  color: white;
+}
+span {
+  color: white;
+}
